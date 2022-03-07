@@ -1,6 +1,7 @@
 alma
 alma2
 korte
-<<<<<<< HEAD
+HEAD
 szilva-barack
->>>>>>> fb74cdc
+fb74cdc
+ribizli
