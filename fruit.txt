@@ -1,4 +1,6 @@
 alma
 alma2
 korte
-szilva
+<<<<<<< HEAD
+szilva-barack
+>>>>>>> fb74cdc
